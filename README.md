@@ -6,4 +6,4 @@
 
 * Caso deseje realizar melhorias, baixe o modulo, extraia o ZIP e:
 * Os arquivos com a tradução fica em language e em administrator/languages.
-* Os arquivos a ser alterado tem a extensão ".ini"
+* Os arquivos a ser alterado tem a extensão ".ini".
