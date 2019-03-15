@@ -4,6 +4,6 @@
 
 * Há alguns erros de gramática pois na pressa acabei usando o google tradutor e básicamente, copiei e colei o resultado.
 
-<p> Caso deseje realizar melhorias, baixe o modulo, extraia o ZIP e:</p>
-<p> Os arquivos com a tradução fica em language e em administrator/languages.</p>
-<p> Os arquivos a ser alterado tem a extensão ".ini"</p>
+* <p> Caso deseje realizar melhorias, baixe o modulo, extraia o ZIP e:</p>
+* <p> Os arquivos com a tradução fica em language e em administrator/languages.</p>
+* <p> Os arquivos a ser alterado tem a extensão ".ini"</p>
